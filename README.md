@@ -1,4 +1,4 @@
-<h1>Hi, I'm Kurnia!</h1>
+<h1 align="center" style="font-weight:bold">Hi, I'm Kurnia!</h1>
 <h3 align="center">An undergraduate web developer student at UPN Veteran Jakarta who eager and passionate on learning topics related 
 to web development</h3>
 
