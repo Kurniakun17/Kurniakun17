@@ -1,4 +1,4 @@
-<h1 align="center" style="font-weight:bold">Hi, I'm Kurnia!</h1>
+<img src="https://github.com/Kurniakun17/kurniakun17/blob/main/greetings.svg" style="width:100%" alt="" />
 
 ## 💫 About Me:
 🔭 I’m An undergraduate web developer student at UPN Veteran Jakarta who eager and passionate on learning topics related 
